@@ -1,0 +1,11 @@
+{
+  "name": "testmocha",
+  "version": "1.0.0",
+  "description": "testmocha test package",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha test --exit"
+  },
+  "author": "",
+  "license": "ISC"
+}
